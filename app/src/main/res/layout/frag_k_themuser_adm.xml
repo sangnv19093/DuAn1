@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    >
+
+    <!-- Tên -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" HAPPY FOOD"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="#FF3C53"/>
+
+    <!-- Số điện thoại -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Số điện thoại: 0838140815"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#9C2C2C"
+        android:layout_marginTop="8dp"/>
+
+    <!-- Địa chỉ -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Địa chỉ: Trịnh Văn Bô, Nam Từ Liêm, Hà Nội"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="8dp"
+        android:textColor="#9C2C2C"/>
+
+    <!-- Email -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email: bfcf@gmail.com"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#9C2C2C"
+        android:layout_marginTop="8dp"/>
+
+    <!-- Ghi chú -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ngon-Bổ-Sạch chính là chúng tôi"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="8dp"
+        android:textColor="#9C2C2C"/>
+
+</LinearLayout>
